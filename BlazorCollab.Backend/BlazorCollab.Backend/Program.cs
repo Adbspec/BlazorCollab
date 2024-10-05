@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using BlazorCollab.Backend.SignalR;
 
 namespace BlazorCollab.Backend
 {
@@ -23,6 +24,11 @@ namespace BlazorCollab.Backend
 
             var jwtSettings = jwtSection.Get<JwtSettings>();
             var key = Encoding.ASCII.GetBytes(jwtSettings.Secret);
+
+            builder.Services.AddSignalR(options =>
+            {
+                options.EnableDetailedErrors = true;
+            });
 
             builder.Services.AddAuthentication(x =>
             {
@@ -74,6 +80,7 @@ namespace BlazorCollab.Backend
 
             app.MapControllers();
 
+            app.MapHub<TeamsHub>("/Notifications");
             app.Run();
         }
     }
