@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorCollab.Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecf6de2b738ff24edd13dde58648bc5619dce48e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1da9e4f0c4ff5b07a72dc8b14c349d51173fe5cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorCollab.Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorCollab.Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
