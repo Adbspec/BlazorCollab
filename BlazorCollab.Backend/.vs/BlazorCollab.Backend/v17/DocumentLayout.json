@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Abhishek\\Downloads\\New folder (2)\\BlazorCollab\\BlazorCollab.Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87C4C2B8-5AFF-41E8-9C6B-E7A5B72619B5}|BlazorCollab.Backend\\BlazorCollab.Backend.csproj|c:\\users\\abhishek\\downloads\\new folder (2)\\blazorcollab\\blazorcollab.backend\\blazorcollab.backend\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C4C2B8-5AFF-41E8-9C6B-E7A5B72619B5}|BlazorCollab.Backend\\BlazorCollab.Backend.csproj|solutionrelative:blazorcollab.backend\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C4C2B8-5AFF-41E8-9C6B-E7A5B72619B5}|BlazorCollab.Backend\\BlazorCollab.Backend.csproj|c:\\users\\abhishek\\downloads\\new folder (2)\\blazorcollab\\blazorcollab.backend\\blazorcollab.backend\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C4C2B8-5AFF-41E8-9C6B-E7A5B72619B5}|BlazorCollab.Backend\\BlazorCollab.Backend.csproj|solutionrelative:blazorcollab.backend\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87C4C2B8-5AFF-41E8-9C6B-E7A5B72619B5}|BlazorCollab.Backend\\BlazorCollab.Backend.csproj|c:\\users\\abhishek\\downloads\\new folder (2)\\blazorcollab\\blazorcollab.backend\\blazorcollab.backend\\models\\authclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87C4C2B8-5AFF-41E8-9C6B-E7A5B72619B5}|BlazorCollab.Backend\\BlazorCollab.Backend.csproj|solutionrelative:blazorcollab.backend\\models\\authclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Abhishek\\Downloads\\New folder (2)\\BlazorCollab\\BlazorCollab.Backend\\BlazorCollab.Backend\\Program.cs",
               "RelativeDocumentMoniker": "BlazorCollab.Backend\\Program.cs",
@@ -55,7 +63,32 @@
               "ViewState": "AQIAADoAAAAAAAAAAAAQwE0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T17:46:55.858Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\Downloads\\New folder (2)\\BlazorCollab\\BlazorCollab.Backend\\BlazorCollab.Backend\\Dto\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "BlazorCollab.Backend\\Dto\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\Downloads\\New folder (2)\\BlazorCollab\\BlazorCollab.Backend\\BlazorCollab.Backend\\Dto\\LoginRequestDTO.cs",
+              "RelativeToolTip": "BlazorCollab.Backend\\Dto\\LoginRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:39:38.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\Downloads\\New folder (2)\\BlazorCollab\\BlazorCollab.Backend\\BlazorCollab.Backend\\Dto\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "BlazorCollab.Backend\\Dto\\LoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\Downloads\\New folder (2)\\BlazorCollab\\BlazorCollab.Backend\\BlazorCollab.Backend\\Dto\\LoginResponseDTO.cs",
+              "RelativeToolTip": "BlazorCollab.Backend\\Dto\\LoginResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:39:37.175Z",
               "EditorCaption": ""
             },
             {
@@ -64,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TeamsHub .cs",
               "DocumentMoniker": "C:\\Users\\Abhishek\\Downloads\\New folder (2)\\BlazorCollab\\BlazorCollab.Backend\\BlazorCollab.Backend\\SignalR\\TeamsHub .cs",
               "RelativeDocumentMoniker": "BlazorCollab.Backend\\SignalR\\TeamsHub .cs",
@@ -72,12 +105,11 @@
               "RelativeToolTip": "BlazorCollab.Backend\\SignalR\\TeamsHub .cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T18:16:55.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T18:16:55.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AuthClass.cs",
               "DocumentMoniker": "C:\\Users\\Abhishek\\Downloads\\New folder (2)\\BlazorCollab\\BlazorCollab.Backend\\BlazorCollab.Backend\\Models\\AuthClass.cs",
               "RelativeDocumentMoniker": "BlazorCollab.Backend\\Models\\AuthClass.cs",
@@ -90,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Abhishek\\Downloads\\New folder (2)\\BlazorCollab\\BlazorCollab.Backend\\BlazorCollab.Backend\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "BlazorCollab.Backend\\Controllers\\AuthController.cs",
@@ -98,12 +130,11 @@
               "RelativeToolTip": "BlazorCollab.Backend\\Controllers\\AuthController.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAUwCQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T18:01:34.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T18:01:34.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DBContext.cs",
               "DocumentMoniker": "C:\\Users\\Abhishek\\Downloads\\New folder (2)\\BlazorCollab\\BlazorCollab.Backend\\BlazorCollab.Backend\\Models\\DBContext.cs",
               "RelativeDocumentMoniker": "BlazorCollab.Backend\\Models\\DBContext.cs",
@@ -111,12 +142,11 @@
               "RelativeToolTip": "BlazorCollab.Backend\\Models\\DBContext.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwAYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T16:50:57.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T16:50:57.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "BlazorCollab.Backend.http",
               "DocumentMoniker": "C:\\Users\\Abhishek\\Downloads\\New folder (2)\\BlazorCollab\\BlazorCollab.Backend\\BlazorCollab.Backend\\BlazorCollab.Backend.http",
               "RelativeDocumentMoniker": "BlazorCollab.Backend\\BlazorCollab.Backend.http",
@@ -128,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Abhishek\\Downloads\\New folder (2)\\BlazorCollab\\BlazorCollab.Backend\\BlazorCollab.Backend\\appsettings.json",
               "RelativeDocumentMoniker": "BlazorCollab.Backend\\appsettings.json",
@@ -140,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Abhishek\\Downloads\\New folder (2)\\BlazorCollab\\BlazorCollab.Backend\\BlazorCollab.Backend\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BlazorCollab.Backend\\Properties\\launchSettings.json",
